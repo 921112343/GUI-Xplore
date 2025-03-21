@@ -3,9 +3,9 @@
 GUI-Xplore is a novel dataset designed to enhance cross-application and cross-task generalization for GUI agents. It provides exploration videos for diverse applications, combined with five structured downstream tasks, aiming to push the boundaries of generalizable GUI automation.
 
 ## 🚀 News
+- [2025-02-27] Accepted by CVPR 2025
 - [2025-03-18] Initial release of GUI-Xplore dataset and benchmark.
-- [2025-03-25] Coming soon: Pre-trained weights and evaluation scripts for Xplore-Agent.
-- [2025-04-10] Call for contributions: Help expand GUI-Xplore with more applications and annotations.
+
 
 ## 🔥 Features
 - **Exploration-then-Reasoning**: A new paradigm that enables GUI agents to learn from exploration videos.
